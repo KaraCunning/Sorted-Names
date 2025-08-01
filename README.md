@@ -1,7 +1,7 @@
 # Sorted-Names
 
 
-![Sorting-Algorithms.png](https://www.crio.do/blog/content/images/2022/02/Sorting-Algorithms.png)
+![Fundamentals-of-Basic-Sorting-Algorithms-1140x445.png](https://www.nilebits.com/wp-content/uploads/2024/05/Fundamentals-of-Basic-Sorting-Algorithms-1140x445.png)
 # Solution for leetcode  problem 2418. Implementing Sorting a list
 
 You are given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n.
